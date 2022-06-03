@@ -1,5 +1,5 @@
 #new information
-my name,
-my firstname,
-new text,
-i'm from Russia.
+#my name,
+#my firstname,
+#new text,
+#i'm from Russia.
